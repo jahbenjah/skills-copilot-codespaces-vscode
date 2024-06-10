@@ -1,4 +1,4 @@
-function skilsMember() {
+function skillsMember() {
     return {
         name: 'skilsMember',
         templateUrl: 'app/components/member/skilsMember.html',
